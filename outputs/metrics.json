@@ -1,0 +1,17 @@
+{
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "epochs": 10,
+  "batch_size": 128,
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "input_size": "3x64x64",
+  "best_val_acc": 0.9501666666666667,
+  "test_acc": 0.9511,
+  "macro_precision": 0.9510557107573512,
+  "macro_recall": 0.9511,
+  "macro_f1": 0.9510688333508103,
+  "train_time_seconds": 138.20612194900013,
+  "inference_ms_per_image_batch1": 0.8526164299996708,
+  "torch": "2.14.1+cu130"
+}

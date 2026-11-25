@@ -1,0 +1,6 @@
+dosya,gercek,arka_plan_parlakligi,ham_tahmin,ham_guven,ham_dogru,onisl_tahmin,onisl_guven,onisl_ilk3,onisl_dogru,cikarim_ms
+img1.jpeg,Bag,219.0,Bag,0.8534,evet,Bag,0.9822,Bag 0.98; T-shirt/top 0.01; Coat 0.01,evet,1.32
+img2.jpeg,(sınıf yok),213.0,T-shirt/top,0.8129,-,Bag,0.9267,Bag 0.93; Coat 0.07; T-shirt/top 0.00,-,1.13
+img3.jpeg,Ankle boot,200.0,Ankle boot,0.8961,evet,Ankle boot,0.9723,Ankle boot 0.97; Sneaker 0.03; Sandal 0.00,evet,1.19
+img4.jpeg,Coat,158.0,Pullover,0.7637,hayır,Shirt,0.8923,Shirt 0.89; T-shirt/top 0.09; Coat 0.02,hayır,1.1
+img5.jpeg,Sneaker,185.0,Ankle boot,0.8592,hayır,Sneaker,0.8772,Sneaker 0.88; Sandal 0.12; Ankle boot 0.00,evet,1.08

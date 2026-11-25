@@ -1,0 +1,19 @@
+# Sanal ortam ve önbellek
+venv/
+.venv/
+__pycache__/
+*.pyc
+.gradio/
+
+# Veri seti
+Dataset/
+
+# Kişisel fotoğraflar
+photos/
+
+# LaTeX ara dosyaları
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
