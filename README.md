@@ -22,6 +22,7 @@ En zayıf sınıflar Shirt (F1 = 0,8574), T-shirt/top (0,9035), Pullover (0,9283
 
 ## Klasör Yapısı
 
+```
 .
 ├── app.py                # Gradio uygulaması
 ├── train.py              # Eğitim, değerlendirme, metrik ve grafik üretimi
@@ -32,8 +33,8 @@ En zayıf sınıflar Shirt (F1 = 0,8574), T-shirt/top (0,9035), Pullover (0,9283
 │                         # confusion_matrix.png, training_curves.png,
 │                         # photo_results.csv, photo_results.png
 ├── photos/               # kendi fotoğraflarım
-└── Dataset/              # Fashion-MNIST CSV dosyaları
-
+└── Dataset/              # Fashion-MNIST CSV dosyaları (Kaggle'dan indirilmeli)
+```
 
 ## Kurulum
 
