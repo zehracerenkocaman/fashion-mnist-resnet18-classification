@@ -4,7 +4,7 @@ Fashion-MNIST veri seti üzerinde ResNet18 modeli ile giysi görüntülerinin s�
 
 ## Proje Hakkında
 
-Bu projede ResNet18 mimarisi 10 farklı giysi sınıfına sahip FASHİON-MNIST veri seti kullanılarak eğitilmiş, eğitilen model telefonum ile çektiğim görüntüler üzerinde denenmiştir. Gradio ile çalışan bir web uygulamasına dönüştürülmüştür.
+Bu projede ResNet18 mimarisi 10 farklı giysi sınıfına sahip FASHION-MNIST veri seti kullanılarak eğitilmiş, eğitilen model telefonum ile çektiğim görüntüler üzerinde denenmiştir. Gradio ile çalışan bir web uygulamasına dönüştürülmüştür.
 
 ## Sonuçlar
 
@@ -15,6 +15,7 @@ Bu projede ResNet18 mimarisi 10 farklı giysi sınıfına sahip FASHİON-MNIST v
 | En iyi doğrulama doğruluğu                           | %95,02                   |
 | Eğitim süresi (10 epoch, RTX 4060 Laptop GPU)        | 138,2 s                  |
 | Tahmin süresi (batch = 1, GPU, yalnızca ileri geçiş) | 0,853 ms                 |
+
 En zayıf sınıflar Shirt (F1 = 0,8574), T-shirt/top (0,9035), Pullover (0,9283) ve Coat (0,9298); hepsi birbirine benzeyen üst gövde giysileridir. Sınıf bazlı tüm değerler `outputs/classification_report.txt` dosyasındadır.
 
 ![Fotoğraf tahmin sonuçları](outputs/photo_results.png)
