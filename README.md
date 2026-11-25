@@ -45,7 +45,8 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
-Veri seti URL: https://www.kaggle.com/datasets/zalando-research/fashionmnist 
+Veri seti URL: https://www.kaggle.com/datasets/zalando-research/fashionmnist.
+
 İndirilen dosyanın içerisindeki fashion-mnist_train.csv, fashion-mnist_test.csv dosyaları Dataset/ klasörüne yüklenmelidir.
 
 ## Kullanım
