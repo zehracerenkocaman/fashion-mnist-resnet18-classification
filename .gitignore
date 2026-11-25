@@ -8,9 +8,6 @@ __pycache__/
 # Veri seti
 Dataset/
 
-# Kişisel fotoğraflar
-photos/
-
 # LaTeX ara dosyaları
 *.aux
 *.log
